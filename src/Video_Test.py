@@ -2,7 +2,6 @@
 #视频流的输入输出测试,为了连接网页与视频处理的连贯性,做的接口测试
 import cv2
 import time
-
 import numpy as np
 
 #读取视频,并设置输出视频格式为.mp4,720p
