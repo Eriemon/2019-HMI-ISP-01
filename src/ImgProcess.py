@@ -3,7 +3,6 @@
 
 # In[1]:
 
-
 import base64
 import urllib
 import urllib.request
